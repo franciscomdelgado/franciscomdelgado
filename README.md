@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/faff7407-ff26-40a6-a4e6-345eda2149f5.svg)](https://wakatime.com/@faff7407-ff26-40a6-a4e6-345eda2149f5)
 <!--
 **franciscomdelgado/franciscomdelgado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
